@@ -20,7 +20,7 @@
 
 👤 **Ali Kahwaji**
 
-* :school: [WEB503teams](https://teams.microsoft.com/l/team/19%3a1b496be02a4249c2acd41097f307dfcf%40thread.tacv2/conversations?groupId=3b29c958-d7ed-4381-9f29-d55afcdc54b0&tenantId=d270022d-f990-4b41-9ce0-468f043eef4f)
+* :school: [WEB503teams](https://livenmitac-my.sharepoint.com/:b:/r/personal/ali_kahwaji_nmit_ac_nz/Documents/assessment%20three-2021.pdf?csf=1&web=1&e=kRDNFW)
 * :e-mail: [Email](Ali.Kahwaji@nmit.ac.nz)
 
 
@@ -61,7 +61,7 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 ## :books: Resources 
 
-|[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|[W3schools](https://www.w3schools.com/js/default.asp)|[JavaScript Eloquent](https://eloquentjavascript.net/)|[Assessment Three Outline](https://drive.google.com/file/d/16kvoaYPlw4M4SSy8MQzE_FRMVDvdBpRY/view?usp=sharing)|
+|[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|[W3schools](https://www.w3schools.com/js/default.asp)|[JavaScript Eloquent](https://eloquentjavascript.net/)|[Assessment Three Outline](https://livenmitac-my.sharepoint.com/:b:/r/personal/ali_kahwaji_nmit_ac_nz/Documents/assessment%20three-2021.pdf?csf=1&web=1&e=kRDNFW)|
 |---|---|---|---|
 
 
