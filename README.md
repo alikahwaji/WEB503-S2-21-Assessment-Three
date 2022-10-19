@@ -20,7 +20,7 @@
 
 👤 **Ali Kahwaji**
 
-* :school: [WEB503teams](https://livenmitac-my.sharepoint.com/:b:/r/personal/ali_kahwaji_nmit_ac_nz/Documents/assessment%20three-2021.pdf?csf=1&web=1&e=kRDNFW)
+* :school: [WEB503teams](https://teams.microsoft.com/l/team/19%3adVvr3C_CUx-H8sQes3zfI1ZndBO5EHIag7dnkB-pKY01%40thread.tacv2/conversations?groupId=52cbce00-7f1d-4fa2-b2dc-7dbe7dd38429&tenantId=d270022d-f990-4b41-9ce0-468f043eef4f)
 * :e-mail: [Email](Ali.Kahwaji@nmit.ac.nz)
 
 
@@ -48,20 +48,20 @@ Check the :white_check_mark: Todos & :x: Not Todos
 |:four:|Do NOT Share the assessment repo :closed_lock_with_key:|:heavy_multiplication_x:|
 |:five:|Do NOT re-use this repo for other coding activities :recycle:|:heavy_multiplication_x:|
 
-## :page_facing_up: Assessment Three Description
+## :page_facing_up: Assessment Three Tasks
 
 :arrow_right: `Assessment Three Outline is provided in this README file, WEB503 Moodle and WEB503 MS teams. Follow the Assessment 
               outline timeline and marking rubric`
  
-:arrow_right: `You will submit your brief document separately in assessment three dropbox.`
+:arrow_right: `The group will submit your web app document for this assessment using report.md file.`
 
-:arrow_right: `You will use this repo to complete your web app code and submit a zipped folder with a url in the dropbox.`
+:arrow_right: `The Group will use this repository to complete the assessmnet and submit a zipped folder with it's HTTP URL in the dropbox.`
 
-:arrow_right: `You MUST follow the GitHub classroom repo instrucation provided in the repo README file.`
+:arrow_right: `The group must submit a hosted website URL in the dropbox`
 
 ## :books: Resources 
 
-|[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|[W3schools](https://www.w3schools.com/js/default.asp)|[JavaScript Eloquent](https://eloquentjavascript.net/)|[Assessment Three Outline](https://livenmitac-my.sharepoint.com/:b:/r/personal/ali_kahwaji_nmit_ac_nz/Documents/assessment%20three-2021.pdf?csf=1&web=1&e=kRDNFW)|
+|[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|[Agile team workflow blog](https://clickup.com/blog/agile-workflow/)|[Assessment Three Outline](https://livenmitac-my.sharepoint.com/:b:/g/personal/ali_kahwaji_nmit_ac_nz/ET8crXwRsRZBi5WqDBGxdIMB1tTGuoiS3PXDo9IOX9pltQ?e=CS5hfn)|
 |---|---|---|---|
 
 
